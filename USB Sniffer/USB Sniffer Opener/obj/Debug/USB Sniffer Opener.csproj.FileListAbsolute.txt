@@ -1,0 +1,8 @@
+C:\Users\Muratq\documents\visual studio 2015\Projects\USB Sniffer\USB Sniffer Opener\bin\Debug\USB Sniffer Opener.exe
+C:\Users\Muratq\documents\visual studio 2015\Projects\USB Sniffer\USB Sniffer Opener\bin\Debug\USB Sniffer Opener.pdb
+C:\Users\Muratq\documents\visual studio 2015\Projects\USB Sniffer\USB Sniffer Opener\obj\Debug\USB_Sniffer_Opener.Form1.resources
+C:\Users\Muratq\documents\visual studio 2015\Projects\USB Sniffer\USB Sniffer Opener\obj\Debug\USB_Sniffer_Opener.Properties.Resources.resources
+C:\Users\Muratq\documents\visual studio 2015\Projects\USB Sniffer\USB Sniffer Opener\obj\Debug\USB Sniffer Opener.csproj.GenerateResource.Cache
+C:\Users\Muratq\documents\visual studio 2015\Projects\USB Sniffer\USB Sniffer Opener\obj\Debug\USB Sniffer Opener.exe
+C:\Users\Muratq\documents\visual studio 2015\Projects\USB Sniffer\USB Sniffer Opener\obj\Debug\USB Sniffer Opener.pdb
+C:\Users\Muratq\documents\visual studio 2015\Projects\USB Sniffer\USB Sniffer Opener\obj\Debug\USB Sniffer Opener.csprojResolveAssemblyReference.cache
